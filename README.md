@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my frontend developer certification on [Scrimba](scrimba.com).
-- 🌱 I’m currently learning React.
+- 🔭 I’m certified... as a frontend developer from [Scrimba](scrimba.com).
+- 🌱 I’m currently learning unit testing.
 - 💬 Ask me about how I can help you or your company.
 - 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/gregpendleton/)
 
